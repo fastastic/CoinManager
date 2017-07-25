@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="app.raulvalverde.com.coinmanager.Activities.AddCoinActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay"
+        android:id="@+id/appBarLayout2">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+
+    <EditText
+        android:id="@+id/addCurrency"
+        android:hint="Insert currency"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="127dp"
+        android:layout_below="@+id/appBarLayout2"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:id="@+id/addValue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Insert value"
+        android:layout_below="@+id/addCurrency"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:id="@+id/addYear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Insert year"
+        android:layout_below="@+id/addValue"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:id="@+id/addCountry"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Insert country"
+        android:layout_below="@+id/addYear"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:id="@+id/addDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Insert description"
+        android:layout_below="@+id/addCountry"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/addCoin"
+        android:text="Add Coin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/addDescription"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="51dp" />
+
+    <ImageView
+        android:id="@+id/Img1"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_alignTop="@+id/addImg1"
+        android:layout_alignStart="@+id/addImg1" />
+
+    <Button
+        android:id="@+id/addImg1"
+        android:text="Add Image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/appBarLayout2"
+        android:layout_toStartOf="@+id/addCoin"
+        android:layout_marginTop="44dp" />
+
+    <Button
+        android:id="@+id/addImg2"
+        android:text="Add Image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/addImg1"
+        android:layout_alignBottom="@+id/addImg1"
+        android:layout_toEndOf="@+id/addCoin" />
+
+
+
+
+
+
+</RelativeLayout>

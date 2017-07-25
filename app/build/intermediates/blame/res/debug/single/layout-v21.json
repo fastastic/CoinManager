@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/raul/AndroidStudioProjects/CoinManager/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/raul/.android/build-cache/8ba0ad0e81013a05b5c05c9a4d3bb87430527588/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/raul/AndroidStudioProjects/CoinManager/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/raul/.android/build-cache/8ba0ad0e81013a05b5c05c9a4d3bb87430527588/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/raul/AndroidStudioProjects/CoinManager/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/raul/.android/build-cache/8ba0ad0e81013a05b5c05c9a4d3bb87430527588/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/raul/AndroidStudioProjects/CoinManager/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/raul/.android/build-cache/8ba0ad0e81013a05b5c05c9a4d3bb87430527588/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

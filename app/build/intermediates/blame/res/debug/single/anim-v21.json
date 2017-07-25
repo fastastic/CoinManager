@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/raul/AndroidStudioProjects/CoinManager/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/raul/.android/build-cache/92d459f8e221a25d202adadd417914c63a301e5e/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/raul/AndroidStudioProjects/CoinManager/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/raul/.android/build-cache/92d459f8e221a25d202adadd417914c63a301e5e/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

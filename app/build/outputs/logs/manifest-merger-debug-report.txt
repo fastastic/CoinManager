@@ -1,0 +1,126 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml
+		INJECTED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml
+		INJECTED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml
+		INJECTED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml:8:5-35:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/raul/.android/build-cache/d209d53a468b8056cf9f55df40ea1bb4a692fb97/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] /home/raul/.android/build-cache/92d459f8e221a25d202adadd417914c63a301e5e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/raul/.android/build-cache/8ba0ad0e81013a05b5c05c9a4d3bb87430527588/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/raul/.android/build-cache/165419a143f57576103416aca4d48f3b4de23d4e/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/raul/.android/build-cache/7341c72870fed711a63225fa088127b592fe97c0/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/raul/.android/build-cache/c41799cc857536ca044463b5ece2e2a3da082f17/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/raul/.android/build-cache/a73ab08835f759ed7672e4743ee67e55a8d8aa5e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/raul/.android/build-cache/1561f35ca9ee7de19af684c1f61b93e5f43a6fc2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/raul/.android/build-cache/d06a047c6d7ec1d70c8812d9ba35ca09a5d3dd7b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/raul/.android/build-cache/ec485550894b384fccad026f5d5c60919c2a4e83/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/raul/.android/build-cache/495807507af755488515b78fe0584a7096f81b35/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/raul/.android/build-cache/bd706edca282febe24af6ae11c2522e9518447f4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/raul/.android/build-cache/54762009e942cc237edb3bbc6995a712fc72f0d4/output/AndroidManifest.xml:26:5-20
+	android:label
+		ADDED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml:12:9-46
+	android:allowBackup
+		ADDED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml:10:9-41
+	android:theme
+		ADDED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml:14:9-40
+activity#app.raulvalverde.com.coinmanager.Activities.MainActivity
+ADDED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml:15:9-24:20
+	android:label
+		ADDED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml:17:13-45
+	android:theme
+		ADDED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml:16:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml:22:27-74
+activity#app.raulvalverde.com.coinmanager.Activities.AddCoinActivity
+ADDED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml:25:9-29:16
+	android:label
+		ADDED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml:27:13-60
+	android:theme
+		ADDED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml:26:13-55
+activity#app.raulvalverde.com.coinmanager.Activities.ShowCoin
+ADDED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml:30:9-34:20
+	android:label
+		ADDED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml:32:13-61
+	android:theme
+		ADDED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml:33:13-56
+	android:name
+		ADDED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml:31:13-48
+uses-sdk
+INJECTED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/raul/.android/build-cache/d209d53a468b8056cf9f55df40ea1bb4a692fb97/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] /home/raul/.android/build-cache/92d459f8e221a25d202adadd417914c63a301e5e/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/raul/.android/build-cache/8ba0ad0e81013a05b5c05c9a4d3bb87430527588/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/raul/.android/build-cache/165419a143f57576103416aca4d48f3b4de23d4e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/raul/.android/build-cache/7341c72870fed711a63225fa088127b592fe97c0/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/raul/.android/build-cache/3f3815341dda547e9045742376c654451c6e53fe/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /home/raul/.android/build-cache/c41799cc857536ca044463b5ece2e2a3da082f17/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /home/raul/.android/build-cache/a73ab08835f759ed7672e4743ee67e55a8d8aa5e/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/raul/.android/build-cache/1561f35ca9ee7de19af684c1f61b93e5f43a6fc2/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/raul/.android/build-cache/d06a047c6d7ec1d70c8812d9ba35ca09a5d3dd7b/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/raul/.android/build-cache/ec485550894b384fccad026f5d5c60919c2a4e83/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/raul/.android/build-cache/495807507af755488515b78fe0584a7096f81b35/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/raul/.android/build-cache/bd706edca282febe24af6ae11c2522e9518447f4/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/raul/.android/build-cache/54762009e942cc237edb3bbc6995a712fc72f0d4/output/AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /home/raul/.android/build-cache/92d459f8e221a25d202adadd417914c63a301e5e/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml
+		INJECTED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml
+		INJECTED from /home/raul/AndroidStudioProjects/CoinManager/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /home/raul/.android/build-cache/92d459f8e221a25d202adadd417914c63a301e5e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/raul/.android/build-cache/8ba0ad0e81013a05b5c05c9a4d3bb87430527588/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/raul/.android/build-cache/165419a143f57576103416aca4d48f3b4de23d4e/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/raul/.android/build-cache/7341c72870fed711a63225fa088127b592fe97c0/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/raul/.android/build-cache/3f3815341dda547e9045742376c654451c6e53fe/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/raul/.android/build-cache/c41799cc857536ca044463b5ece2e2a3da082f17/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/raul/.android/build-cache/a73ab08835f759ed7672e4743ee67e55a8d8aa5e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/raul/.android/build-cache/1561f35ca9ee7de19af684c1f61b93e5f43a6fc2/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/raul/.android/build-cache/d06a047c6d7ec1d70c8812d9ba35ca09a5d3dd7b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/raul/.android/build-cache/ec485550894b384fccad026f5d5c60919c2a4e83/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/raul/.android/build-cache/495807507af755488515b78fe0584a7096f81b35/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/raul/.android/build-cache/bd706edca282febe24af6ae11c2522e9518447f4/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/raul/.android/build-cache/54762009e942cc237edb3bbc6995a712fc72f0d4/output/AndroidManifest.xml:22:5-24:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /home/raul/.android/build-cache/92d459f8e221a25d202adadd417914c63a301e5e/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /home/raul/.android/build-cache/92d459f8e221a25d202adadd417914c63a301e5e/output/AndroidManifest.xml:26:9-47

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/raul/AndroidStudioProjects/CoinManager/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/home/raul/AndroidStudioProjects/CoinManager/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/raul/AndroidStudioProjects/CoinManager/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/raul/AndroidStudioProjects/CoinManager/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

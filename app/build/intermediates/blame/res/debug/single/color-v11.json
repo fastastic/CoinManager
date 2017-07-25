@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/raul/AndroidStudioProjects/CoinManager/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/raul/.android/build-cache/8ba0ad0e81013a05b5c05c9a4d3bb87430527588/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/raul/AndroidStudioProjects/CoinManager/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/raul/.android/build-cache/8ba0ad0e81013a05b5c05c9a4d3bb87430527588/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
